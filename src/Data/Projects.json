@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Voting App",
+        "ImageSrc":"votingapp.png",
+        "description":"This is a project where college students can vote for President elections in college",
+        "technology":["Node JS","Express","Mongo DB"],
+        "source":"https://www.github.com"
+    },
+    {
+        "title":"Social Media UI",
+        "ImageSrc":"socialmediaui.png",
+        "description":"This is a UI of a scocial media platform like twitter",
+        "technology":["React","BootStrap"],
+        "source":"https://www.github.com"
+    }
+
+]

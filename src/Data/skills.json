@@ -1,0 +1,59 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc":"./assets/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"./assets/css.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"./assets/javascript1.png"
+    },
+    {
+        "title":"React JS",
+        "imageSrc":"./assets/react.png"
+    },
+    {
+        "title":"Redux",
+        "imageSrc":"./assets/Redux.png"
+    },
+    {
+        "title":"BootStrap",
+        "imageSrc":"./assets/bootstrap.png"
+    },
+    {
+        "title":"Tailwind",
+        "imageSrc":"./assets/tailwind.png"
+    },
+    {
+        "title":"Node JS",
+        "imageSrc":"./assets/node.png"
+    }
+    ,
+    {
+        "title":"Express",
+        "imageSrc":"./assets/express.png"
+    },
+    {
+        "title":"Mongo DB",
+        "imageSrc":"./assets/mongodb.png"
+    },
+    {
+        "title":"MySQL",
+        "imageSrc":"./assets/mysql.png"
+    },
+    {
+        "title":"Npm",
+        "imageSrc":"./assets/npm.png"
+    },
+    {
+        "title":"Git",
+        "imageSrc":"./assets/git.png"
+    },
+    {
+        "title":"Figma",
+        "imageSrc":"./assets/figma.png"
+    }
+]

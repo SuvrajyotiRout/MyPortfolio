@@ -1,0 +1,18 @@
+[
+    {
+        "role":"Freelancer",
+        "Organization":"Fiverr",
+        "Startdate":"Dec, 2023",
+        "EndData":"Present",
+        "experience":["Delivered multiple Business Purpose Portfolios"],
+        "imageSrc":"fiver.png"
+    }
+    ,  {
+        "role":"Freelancer",
+        "Organization":"Upwork",
+        "Startdate":"Dec, 2023",
+        "EndData":"Present",
+        "experience":["Delivered multiple Business Purpose Portfolios"],
+        "imageSrc":"upwork.png"
+    }
+]
