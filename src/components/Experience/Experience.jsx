@@ -12,7 +12,7 @@ const Experience =()=>{
                 return (
                     <div key={id} className ={styles.class}>
                         <div className ={styles.skillImageContainer}>
-                            <img src={skill.imageSrc} alt={skill.title} />
+                            <img src={getImageurl(skill.imageSrc)} alt={skill.title} />
                         </div>
                         <p>{skill.title}</p>
                     </div>
